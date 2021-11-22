@@ -19,4 +19,4 @@ Ce projet à été développé avec les logiciels et langages suivants :
 ## 👥 Auteurs
 Ce projet à été réalisé par 
 - Alexys Gromard : [@AlexysGromard](https://github.com/AlexysGromard) 
-- Kilian Elie : [@PopTurtle](https://github.com/PopTurtle)
+- Kilian E : [@PopTurtle](https://github.com/PopTurtle)
